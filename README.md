@@ -16,6 +16,8 @@
   6. atom
   7. android-file-transfer		  		   		    
   8. virtualbox
+  9. slack
+  10. firefox
 5. Install Atom Packages
   1. linter
   2. linter-eslint
